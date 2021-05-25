@@ -1,6 +1,6 @@
-# Both Applications:
-
-1. Run git clone using `git clone https://github.com/shanematthewkelly/Newsify.git`
+To use this repository begin by running: `git clone https://github.com/shanematthewkelly/Newsify.git`
+<br>
+<br>
 
 # Client
 
